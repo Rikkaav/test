@@ -1,2 +1,2 @@
 #### forge compile
-#### forge test
+#### forge test -vvvv
